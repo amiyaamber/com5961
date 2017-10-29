@@ -8,7 +8,7 @@ var storymap_data = {
       type: "overview",
       date: "2014",
       text: {
-        headline: "Amber's Travel Journey in 2014",
+        headline: "AMBER'S TRAVEL JOURNEY OF 2014",
         text: "<p> This year I spent a month traveling some places with my friends. </p>"
       },
       media: {
