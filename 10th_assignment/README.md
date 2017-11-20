@@ -1,6 +1,7 @@
 Dear Bernard,
 
 This is the assignment of interactive chart using C3.js.
+
 •chart：http://dev-amiyaamber.pantheonsite.io/htdocs/chart/chart.html
 
 Another links we've done on the class:
