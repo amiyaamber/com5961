@@ -1,7 +1,9 @@
 Dear Bernard,
 
 
-I couldn't upload my report, which maybe the size problem. So, it would be kind of you to download the report through my website.
+I couldn't upload my report, which maybe the size problem. 
+
+So, it would be kind of you to download the report through my website on the About page.
 
 (Please open my website in Safari browser.)
 
